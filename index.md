@@ -15,7 +15,7 @@ Software Engineer - London, England.
 
 ### Details
 
-Leading the realtime menu item search data project. Upgrading the existing system from a nightly snapshot to a realtime feed of updates, creations and deletions via Kafka. Vastly improving the experience for customers and restaurants/groceries by reflecting in-day menu and stock updates within seconds rather than hours, therefore reducing deadend rates, improving search results correctness, increasing visibility of new and updates menus and increasing order volume credited to search. The realtime system processes millions of events per day. Collaborating with the menu data storage team to extend the feed generically for all teams in Deliveroo to subscribe to. All services written in Go, containerised with Docker and deployed to AWS ECS.
+Leading the realtime menu item search data project. Upgrading the existing system from a nightly snapshot to a realtime feed of updates, creations and deletions via Kafka. Vastly improving the experience for customers and restaurants/groceries by reflecting in-day menu and stock updates within seconds rather than hours, therefore reducing deadend rates, improving search results correctness, increasing visibility of new and updated menus and increasing order volume credited to search. The realtime system processes millions of events per day. Collaborating with the menu data storage team to extend the feed generically for all teams in Deliveroo to subscribe to.
 
 ### Tech
 
@@ -27,7 +27,7 @@ Go, Docker, ElasticSearch/OpenSearch, Postgres, ECS, DataDog, Terraform, Kafka, 
 
 ### Details
 
-I worked on, and subsequntly lead the project overhauling the legacy survey distribution services to a single inbound/outbound messaging engine. The main design goal was for extensibility, to allow future messaging platforms to integrate easily. Examples of supported platforms included Twilio, WeChat, Facebook Messenger and Slack. This greatly increased the selection of survey distribution modes available to customers. I worked with various stakeholders from other teams, both engineering and customer facing. It was deployed to 5 global data centres and operated on a scale of ~1,000,000 daily messages.
+I worked on, and subsequntly lead the project overhauling the legacy survey distribution services to a single inbound/outbound messaging engine. The main design goal was for extensibility, to allow future messaging platforms to integrate easily. Examples of supported platforms included Twilio, WeChat, Facebook Messenger and Slack. This greatly increased the selection of survey distribution modes available to customers. I worked with various stakeholders from other teams, both engineering and customer facing. It was deployed to 5 global data centres and operated on a scale of ~100,000 daily messages.
 
 ### Tech
 
