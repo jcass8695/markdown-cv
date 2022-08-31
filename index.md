@@ -12,7 +12,7 @@ Software Engineer.
 
 ## Currently
 
-Software Engineer at Deliveroo, working on the Consumer Search team, powering the search functionality behind the home feed and menu pages.
+`2021-present` Software Engineer at Deliveroo, working on the Consumer Search team, powering the search functionality behind the home feed and menu pages.
 
 ### Details
 
@@ -24,7 +24,7 @@ Go, Docker, ElasticSearch/OpenSearch, Postgres, ECS, DataDog, Terraform, Kafka, 
 
 ## Previously
 
-Software Engineer at Qualtrics, working on the Engineering Services team, focussed on R&D work and building custom solutions extending the Qualtrics platform for critical customers.
+`2018-2021` Software Engineer at Qualtrics, working on the Engineering Services team, focussed on R&D work and building custom solutions extending the Qualtrics platform for critical customers.
 
 ### Details
 
@@ -36,9 +36,8 @@ Typescript, Python, Docker, MySQL, Redis, Kafka, Jenkins, Prometheus, Grafana, N
 
 ## Education
 
-`2014-2018` - B.A. Computer Engineering (1st class honours)
+`2014-2018` B.A. Computer Engineering (1st class honours)
 __Trinity College Dublin, Ireland.__
-
 
 <!-- ### Footer
 
