@@ -7,6 +7,7 @@ Software Engineer - London, England.
 
 <div id="webaddress">
   <a href="j.cassidy45">j.cassidy45@gmail.com</a> | <a href="https://github.com/jcass8695">github.com/jcass8695</a>
+ </div>
 
 ## Currently
 
