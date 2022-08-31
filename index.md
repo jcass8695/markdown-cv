@@ -3,16 +3,14 @@ layout: cv
 title: Jack Cassidys CV
 ---
 # Jack Cassidy
-Software Engineer.
+Software Engineer - London, England.
 
 <div id="webaddress">
 <a href="j.cassidy45">j.cassidy45@gmail.com</a>
-</div>
-
 
 ## Currently
 
-`2021-present` Software Engineer at Deliveroo, working on the Consumer Search team, powering the search functionality behind the home feed and menu pages.
+`London, England. 2021-present` Software Engineer at Deliveroo, working on the Consumer Search team, powering the search functionality behind the home feed and menu pages.
 
 ### Details
 
@@ -24,7 +22,7 @@ Go, Docker, ElasticSearch/OpenSearch, Postgres, ECS, DataDog, Terraform, Kafka, 
 
 ## Previously
 
-`2018-2021` Software Engineer at Qualtrics, working on the Engineering Services team, focussed on R&D work and building custom solutions extending the Qualtrics platform for critical customers.
+`Dublin, Ireland. 2018-2021` Software Engineer at Qualtrics, working on the Engineering Services team, focussed on R&D work and building custom solutions extending the Qualtrics platform for critical customers.
 
 ### Details
 
@@ -41,6 +39,6 @@ __Trinity College Dublin, Ireland.__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2022 -->
 
 
