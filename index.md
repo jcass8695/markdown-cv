@@ -11,7 +11,7 @@ Software Engineer - London, England.
 
 ## Currently
 
-`London, England. 2021-present` Software Engineer at Deliveroo, working on the Consumer Search team, powering the search functionality behind the home feed and menu pages.
+`2021-present` Software Engineer at Deliveroo, working on the Consumer Search team, powering the search functionality behind the home feed and menu pages.
 
 ### Details
 
@@ -23,7 +23,7 @@ Go, Docker, ElasticSearch/OpenSearch, Postgres, ECS, DataDog, Terraform, Kafka, 
 
 ## Previously
 
-`Dublin, Ireland. 2018-2021` Software Engineer at Qualtrics, working on the Engineering Services team, focussed on R&D work and building custom solutions extending the Qualtrics platform for critical customers.
+`2018-2021` Software Engineer at Qualtrics, working on the Engineering Services team, focussed on R&D work and building custom solutions extending the Qualtrics platform for critical customers.
 
 ### Details
 
@@ -37,7 +37,7 @@ Typescript, Python, Docker, MySQL, Redis, Kafka, Jenkins, Prometheus, Grafana, N
   
 ### Trinity College Dublin
 
-`Dublin, Ireland. 2014-2018` B.A. Computer Engineering (1st class honours). Dissertation title: An Investigation into Deep Reinforcement Learning in Atari 2600 Video Games.
+`2014-2018` B.A. Computer Engineering (1st class honours). Dissertation title: An Investigation into Deep Reinforcement Learning in Atari 2600 Video Games.
 
 <!-- ### Footer
 
