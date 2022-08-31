@@ -6,7 +6,7 @@ title: Jack Cassidys CV
 Software Engineer - London, England.
 
 <div id="webaddress">
-<a href="j.cassidy45">j.cassidy45@gmail.com</a>
+  <a href="j.cassidy45">j.cassidy45@gmail.com</a> | <a href="https://github.com/jcass8695">github.com/jcass8695</a>
 
 ## Currently
 
@@ -33,9 +33,10 @@ I worked on, and subsequntly lead the project overhauling the legacy survey dist
 Typescript, Python, Docker, MySQL, Redis, Kafka, Jenkins, Prometheus, Grafana, Nomad.
 
 ## Education
+  
+### Trinity College Dublin
 
-`2014-2018` B.A. Computer Engineering (1st class honours)
-__Trinity College Dublin, Ireland.__
+`Dublin, Ireland. 2014-2018` B.A. Computer Engineering (1st class honours). Dissertaion title: An Investigation into Deep Reinforcement Learning in Atari 2600 Video Games.
 
 <!-- ### Footer
 
