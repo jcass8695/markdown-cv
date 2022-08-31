@@ -39,6 +39,16 @@ Typescript, Python, Docker, MySQL, Redis, Kafka, Jenkins, Prometheus, Grafana, N
 
 `2014-2018` B.A. Computer Engineering (1st class honours). Dissertation title: An Investigation into Deep Reinforcement Learning in Atari 2600 Video Games.
 
+## Awards
+
+### Deliveroo Hackathon Most Innovative
+
+`2022` Part of the 'Most Innovative' prize winning team for our Power Search MVP. Gave users the ability to express Boolean logic in their search queries (AND, OR, NOT etc.)
+
+### Qualtrics Hackathon
+
+`2021` Part of the winning team for our QFluencers MVP. Gave business the ability to treat Instagram posts as surveys, and collect comments as responses, allowing them to analyse their social media compaigns with the full suite of Qualtrics data analysis tools.
+
 <!-- ### Footer
 
 Last updated: August 2022 -->
