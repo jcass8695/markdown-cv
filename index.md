@@ -1,87 +1,43 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jack Cassidys CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jack Cassidy
+Software Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="j.cassidy45">j.cassidy45@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Software Engineer at Deliveroo, working on the Consumer Search team, powering the search functionality behind the home feed and menu pages.
 
-### Specialized in
+### Details
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Leading the realtime menu item search data project. Upgrading the existing system from a nightly snapshot to a realtime feed of updates, creations and deletions via Kafka. Vastly improving the experience for customers and restaurants/groceries by reflecting in-day menu and stock updates within seconds rather than hours, therefore reducing deadend rates, improving search results correctness, increasing visibility of new and updates menus and increasing order volume credited to search. The realtime system processes millions of events per day. Collaborating with the menu data storage team to extend the feed generically for all teams in Deliveroo to subscribe to. All services written in Go, containerised with Docker and deployed to AWS ECS.
 
+### Tech
 
-### Research interests
+Go, Docker, ElasticSearch/OpenSearch, Postgres, ECS, DataDog, Terraform, Kafka, various AWS technologies such as CloudWatch, S3 etc.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Previously
 
+Software Engineer at Qualtrics, working on the Engineering Services team, focussed on R&D work and building custom solutions extending the Qualtrics platform for critical customers.
+
+### Details
+
+I worked on, and subsequntly lead the project overhauling the legacy survey distribution services to a single inbound/outbound messaging engine. The main design goal was for extensibility, to allow future messaging platforms to integrate easily. Examples of supported platforms included Twilio, WeChat, Facebook Messenger and Slack. This greatly increased the selection of survey distribution modes available to customers. I worked with various stakeholders from other teams, both engineering and customer facing. It was deployed to 5 global data centres and operated on a scale of ~1,000,000 daily messages.
+
+### Tech
+
+Typescript, Python, Docker, MySQL, Redis, Kafka, Jenkins, Prometheus, Grafana, Nomad.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2014-2018` - B.A. Computer Engineering (1st class honours)
+__Trinity College Dublin, Ireland.__
 
 
 <!-- ### Footer
