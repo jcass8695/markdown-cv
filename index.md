@@ -36,7 +36,7 @@ Typescript, Python, Docker, MySQL, Redis, Kafka, Jenkins, Prometheus, Grafana, N
   
 ### Trinity College Dublin
 
-`Dublin, Ireland. 2014-2018` B.A. Computer Engineering (1st class honours). Dissertaion title: An Investigation into Deep Reinforcement Learning in Atari 2600 Video Games.
+`Dublin, Ireland. 2014-2018` B.A. Computer Engineering (1st class honours). Dissertation title: An Investigation into Deep Reinforcement Learning in Atari 2600 Video Games.
 
 <!-- ### Footer
 
