@@ -47,7 +47,7 @@ Typescript, Python, Docker, MySQL, Redis, Kafka, Jenkins, Prometheus, Grafana, N
 
 ### Qualtrics Hackathon
 
-`2021` Part of the winning team for our QFluencers MVP. Gave business the ability to treat Instagram posts as surveys, and collect comments as responses, allowing them to analyse their social media compaigns with the full suite of Qualtrics data analysis tools.
+`2021` Part of the winning team for our QFluencers MVP. Gave customers the ability to import Instagram posts as surveys, and collect comments as responses, allowing them to analyse their social media compaigns with the full suite of Qualtrics data analysis tools.
 
 <!-- ### Footer
 
